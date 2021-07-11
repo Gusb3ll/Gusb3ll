@@ -1,1 +1,2 @@
-![I simp for Kanata](https://user-images.githubusercontent.com/77166960/115962036-88b6b800-a543-11eb-9cc5-c9b11427d741.png)
+![help_me](https://user-images.githubusercontent.com/77166960/125182270-de435c80-e236-11eb-9a0a-335e5b8b965c.png)
+
