@@ -13,9 +13,10 @@
 ![sql](https://img.shields.io/badge/-sql-red?style=for-the-badge)
 
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
-![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 ![nuxt.js](https://img.shields.io/badge/-nuxt.js-blue?style=for-the-badge)
+![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 ![flask](https://img.shields.io/badge/-flask-blue?style=for-the-badge)
+![quart](https://img.shields.io/badge/-quart-blue?style=for-the-badge)
 ![fastapi](https://img.shields.io/badge/-fastapi-blue?style=for-the-badge)
 
 ![vscode](https://img.shields.io/badge/-vscode-brightgreen?style=for-the-badge)
