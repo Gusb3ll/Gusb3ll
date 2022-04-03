@@ -1,4 +1,5 @@
-![pogger](https://user-images.githubusercontent.com/77166960/125182270-de435c80-e236-11eb-9a0a-335e5b8b965c.png)
+![pic](https://user-images.githubusercontent.com/77166960/161437870-b88de6ec-120b-47fd-a5a6-88e0bc8e4053.png)
+
 
 ## ⛏️ Stacks
 ![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
