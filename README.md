@@ -1,7 +1,7 @@
 ![pic](https://user-images.githubusercontent.com/77166960/161437870-b88de6ec-120b-47fd-a5a6-88e0bc8e4053.png)
 
 
-## ⛏️ Stacks
+##
 <!-- ![windows](https://img.shields.io/badge/-windows-black?style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/-ubuntu-black?style=for-the-badge)
 
