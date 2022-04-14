@@ -27,4 +27,4 @@
 
 # Statistics #
 
-[![Gusbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusb3ll)](https://github.com/Gusb3ll)
+[![Gusbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusb3ll&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Gusb3ll)
