@@ -27,4 +27,10 @@
 
 # Statistics #
 
-[![Gusbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusb3ll&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Gusb3ll)
+<!-- [![Gusbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusb3ll&show_icons=true&theme=tokyonight&count_private=true)(https://github.com/Gusb3ll) -->
+
+<p align="center">
+  <a href="https://github.com/Gusb3ll">
+    <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Gusb3ll?cardType=level&theme=tokyonight&count_private=true" />
+  </a>
+</p>
