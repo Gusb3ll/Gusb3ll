@@ -22,10 +22,7 @@
 
 ![vscode](https://img.shields.io/badge/-vscode-brightgreen?style=for-the-badge) -->
 
-![Technology-Stack](https://user-images.githubusercontent.com/77166960/163433637-bb145c88-d7cc-480c-bd24-c98fd21ddf28.png)
-
-
-# Statistics #
+<!-- ![Technology-Stack](https://user-images.githubusercontent.com/77166960/163433637-bb145c88-d7cc-480c-bd24-c98fd21ddf28.png) -->
 
 <!-- [![Gusbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusb3ll&show_icons=true&theme=tokyonight&count_private=true)(https://github.com/Gusb3ll) -->
 
